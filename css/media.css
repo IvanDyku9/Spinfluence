@@ -1,0 +1,145 @@
+@media screen and (max-width: 1500px){
+    .nav__toggle{
+        right: 102px;
+    }
+    .splash::after{
+        top: -137vmax;
+        left: -141.6vmax;
+    }
+    .satisfiedcustomers_dicoration{
+        right: 668px;
+    }
+}
+
+
+
+@media screen and (max-width: 1200px){
+    .header__inner{
+        justify-content: flex-start;
+    }
+    .header__inner_login a{
+        padding-left: 183px;
+    }
+    .corewordpress__inner{
+        flex-wrap: wrap;
+    }
+    .latestnews__inner{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+        gap: 79px;
+        justify-content: center;
+    }
+    .different__inner{
+        flex-wrap: wrap;
+        margin: 0 20px;
+    }
+    .foryourbusiness__inner_blocks{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 40px;
+    }
+    .splash::after{
+        top: -121vmax;
+        left: -89.6vmax;
+    }
+    .nav{
+        position: absolute;
+    }
+    .nav__menu{
+        padding-left: 335px;
+    }
+    .nav__toggle{
+        right: -481px;
+        top: -49px;
+    }
+    .corewordpress__inner{
+        justify-content: center;
+        gap: 30px;
+    }
+    .header__inner_home{
+        padding-left: 122px;
+    }
+    .solutions__inner{
+        flex-wrap: wrap;
+    }
+    .solutions__inner_text{
+        text-align: center;
+    }
+    .satisfiedcustomers_dicoration{
+        right: 508px;
+    }
+}
+
+
+
+@media screen and (max-width: 998px){
+    .different__inner{
+        margin: 0 57px;
+    }
+    .satisfiedcustomers__inner{
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .satisfiedcustomers_blou{
+        height: 977px;
+    }
+    .satisfiedcustomers_dicoration{
+        right: 735px;
+        padding-top: 658px;
+    }
+    .get-started__inner{
+        padding-top: 33px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px){
+    .header__inner_home{
+        display: none;
+    }
+    .nav__toggle{
+        right: -236px;
+    }
+    .header__inner_login a{
+        padding-left: 437px;
+    }
+    .splash::after{
+        left: -105.6vmax;
+        top: -106vmax;
+    }
+    .satisfiedcustomers_dicoration {
+        right: 619px;
+    }
+    .get-started_fon{
+        height: 344px;
+    }
+}
+
+
+
+@media screen and (max-width: 576px){
+    .header__inner_login a{
+        padding-left: 277px;
+    }
+    .nav__toggle{
+        right: -127px;
+    }
+    .splash::after{
+        left: -118.6vmax;
+    }
+    .nav__menu{
+        padding-left: 243px;
+    }
+    .foryourbusiness__inner_h1{
+        text-align: center;
+    }
+    .different_h1{
+        text-align: center;
+    }
+}
+
+
+
